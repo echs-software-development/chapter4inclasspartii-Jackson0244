@@ -9,7 +9,6 @@ System.out.println("Enter a sentence");
 String firstWord = scanner.nextLine();
 System.out.println(firstWord.indexOf(" "));
 
-
-
+ 
   }
 }
